@@ -4,7 +4,7 @@
 
 <div>
 <h3>- 🎓Studying Computer Science and Engineering BRAC University (Sept 2022)</h3>
-<h3>- 🔭 Currently working on Human Analytics (Sept 2022)</h3>
+<h3>- 🔭 Currently working on Human Analytics </h3>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SammamMahdi&theme=darkhub" alt="SammamMahdi" /></a> </p>
