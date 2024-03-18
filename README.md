@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sammam Mahdi</h1>
-<h3 align="center">👋 Hey there! I'm Sammam Mahdi, a coding enthusiast on a mission 🚀! Over the past year, I've been on a journey of honing my programming chops 🛠️ by tackling challenges on LeetCode and diving into various projects 🎨. I've self-taught myself new languages like C++, Java, and Python 🐍, while also delving into the fascinating realms of deep learning 💡, particularly in research projects focusing on pose estimation and facial detection. When it comes to machine learning, I'm your go-to guy for data training and model testing 🤖. Plus, I'm no stranger to navigating ROS 🤖 environments like a pro! Let's connect and code something awesome together! 🤝</h3>
+<h1>Hi 👋, I'm Sammam Mahdi</h1>
+<h3 align="justify">A coding enthusiast on a mission 🚀! Over the past year, I've been on a journey of honing my programming chops 🛠️ by tackling challenges on LeetCode and diving into various projects 🎨. I've self-taught myself new languages like C++, Java, and Python 🐍, while also delving into the fascinating realms of deep learning 💡, particularly in research projects focusing on pose estimation and facial detection. When it comes to machine learning, I'm your go-to guy for data training and model testing 🤖. Plus, I'm no stranger to navigating ROS 🤖 environments like a pro! Let's connect and code something awesome together! 🤝</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SammamMahdi&label=Profile%20views&color=0e75b6&style=flat" alt="SammamMahdi" /> </p>
+
+<div>
+<h3>- 🎓Studying Computer Science and Engineering BRAC University (Sept 2022)</h3>
+<h3>- 🔭 Currently working on Human Analytics (Sept 2022)</h3>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SammamMahdi&theme=darkhub" alt="SammamMahdi" /></a> </p>
 
-- 🎓Studying Computer Science and Engineering **BRAC University (Sept 2022)**
-- 🔭 I’m currently working on **Human Analytics**
+
+
 
 
 
