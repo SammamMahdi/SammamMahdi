@@ -58,12 +58,12 @@ me.say_hi()
 
 <br/>
 
-- 🔭 Currently working on **Healthcare AI & Computer Vision Projects**
+- 🔭 Currently working on **Computer Vision Projects**
 - 🌱 Learning **Advanced LLMs, VLMs & Multi-modal AI**
 - 👯 Looking to collaborate on **AI Research & Open Source Projects**
 - 💬 Ask me about **ML, AI, Computer Vision, Web Development**
 - 📫 Reach me at **sammam.mahdi@g.bracu.ac.bd**
-- ⚡ Fun fact: **Speed Cuber 🎲 & Math Olympiad Participant 🧮**
+- ⚡ Fun fact: **Speed Cuber 🎲**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -510,16 +510,6 @@ mindmap
 <a href="https://github.com/SammamMahdi">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-📍 **Location:**Dhaka-1216, Bangladesh 🇧🇩
-
-<br/>
-
-### 💡 *"Turning data into insights, and insights into impact"*
-
-<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
