@@ -8,10 +8,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammam.mahdi@g.bracu.ac.bd)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammamMahdi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=SammamMahdi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -26,12 +26,11 @@
 ```python
 class SammamMahdi:
     def __init__(self):
-        self.username = "sammam-mahdi"
+        self.username = "SammamMahdi"
         self.location = "Dhaka, Bangladesh 🇧🇩"
         self.education = {
             "university": "BRAC University",
             "major": "Computer Science",
-            "cgpa": "3.90/4.00",
             "status": "Undergraduate"
         }
         self.role = "AI Researcher & Full Stack Developer"
@@ -210,19 +209,19 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=FF006E&fire=FF006E&currStreakLabel=FF006E" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SammamMahdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SammamMahdi&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=FF006E&fire=FF006E&currStreakLabel=FF006E" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&langs_count=10" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammamMahdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SammamMahdi&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SammamMahdi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br/>
@@ -230,15 +229,25 @@ me.say_hi()
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Sammam%20Mahdi's%20Contribution%20Graph&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF&area_color=FF006E&title_color=FFFFFF&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SammamMahdi&custom_title=Sammam%20Mahdi's%20Contribution%20Graph&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF&area_color=FF006E&title_color=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
+
+<br/>
+
+### 🐍 Animated Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SammamMahdi/SammamMahdi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SammamMahdi/SammamMahdi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SammamMahdi/SammamMahdi/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
 ### 🔥 GitHub Metrics
 
 <p align="center">
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SammamMahdi&theme=radical" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -321,8 +330,8 @@ me.say_hi()
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="60"/>
-<br /><b>CGPA 3.90</b>
-<br />BRAC University
+<br /><b>BRAC University</b>
+<br />CS Undergraduate
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/color/96/000000/medal.png" width="60"/>
@@ -340,7 +349,7 @@ me.say_hi()
 | 🏅 Award | 🎯 Description |
 |---------|---------------|
 | 🌟 **IEEE Published Author** | 3 Publications in prestigious conferences & journals |
-| 🎓 **Academic Excellence** | CGPA 3.90 at BRAC University |
+| 🎓 **Academic Excellence** | Computer Science, BRAC University |
 | 🏆 **HULT Prize Semi-Finalist** | BRAC University |
 | ⭐ **Daily Star Awards** | Recognition for Excellence |
 | 👑 **Duke of Edinburgh Award** | Bronze Medal |
@@ -353,30 +362,6 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💼 Experience
-
-<div align="center">
-
-```mermaid
-gantt
-    title Professional Journey
-    dateFormat YYYY-MM
-    section Education
-    O-Level (IGCSE)           :done, 2018-06, 2019-06
-    A-Level (IAL)             :done, 2019-06, 2021-06
-    BSc in CSE (BRAC)         :active, 2022-01, 2026-06
-    section Teaching
-    O & A Level Tutor         :done, 2021-06, 2024-12
-    Teaching Assistant        :active, 2025-01, 2026-06
-    section Research
-    ML & CV Projects          :active, 2023-01, 2025-12
-    IEEE Publications         :active, 2024-01, 2025-06
-    section Teams
-    Rover Challenge Team      :done, 2023-06, 2024-06
-```
-
-</div>
-
-<br/>
 
 <table>
 <tr>
@@ -420,6 +405,7 @@ gantt
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6B6B','primaryTextColor':'#fff','primaryBorderColor':'#FF6B6B','lineColor':'#4ECDC4','secondaryColor':'#95E1D3','tertiaryColor':'#F38181','fontSize':'16px'}}}%%
 mindmap
   root((Sammam<br/>Mahdi))
     AI Research
@@ -521,13 +507,13 @@ mindmap
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/SammamMahdi">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-📍 **Location:** House-80, Polashnagar, Mirpur-11, Dhaka-1216, Bangladesh 🇧🇩
+📍 **Location:**Dhaka-1216, Bangladesh 🇧🇩
 
 <br/>
 
@@ -541,10 +527,8 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
+
+</div>
